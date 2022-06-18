@@ -11,4 +11,4 @@ ___Things to know___
 
 Formula to calculate the mileage is fairly simple.
 ===
-To subtract the odometer readings , then add the first reserve tank consumption and subtractc from it the second reserve consumption
+To subtract the odometer readings , then add the first reserve tank consumption and subtract from it the second reserve consumption
